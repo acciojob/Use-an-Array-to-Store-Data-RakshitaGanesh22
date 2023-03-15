@@ -1,1 +1,2 @@
-var yourArray=['one', 2, 'three', true, false, undefined, null];
+const li=document.getElementByName('li');
+li=['one', 2, 'three', true, false, undefined, null];
